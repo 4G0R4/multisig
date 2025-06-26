@@ -1,14 +1,12 @@
 coinbin
 =======
 
-An Open Source Multisig Support Tool. Version 1.3 by real1510.
-Forked from https://github.com/OutCast3k/coinbin/ by OutCast3k.
+An Open Source Multisig Support Tool. Version 1.3 by 4G0R4.
+Forked from https://github.com/real1510/multisig by real1510.
 
-Live version available at https://multisig.btcnet.eu/
+Original live version available at [https://multisig.btcnet.eu/](https://web.archive.org/web/20200508210414/https://multisig.btcnet.eu)
 
-Github URL: https://github.com/real1510/multisig/
-
-Coinb.in supports a number of key features such as: 
+As the original Coinb.in, it supports a number of key features such as: 
 
 - Offline Compressed & uncompressed Address creation.
 - Offline Multisignature Address creation.
